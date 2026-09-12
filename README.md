@@ -8,7 +8,7 @@ I’m interested in earthquake engineering, statistical modeling, data analysis,
 
 - Focused on earthquake engineering and data-driven analysis
 - Interested in statistical modeling and computational methods
-- Junior developer with experience in Python, MATLAB, and JavaScript
+- Mid-Level developer with experience in Python, MATLAB, and JavaScript
 - Background in frontend development with React and Bootstrap
 - Familiar with UI/UX design using Figma
 
@@ -16,9 +16,9 @@ I’m interested in earthquake engineering, statistical modeling, data analysis,
 
 - Python
 - MATLAB
+- JavaScript
 - CSI ETABS
 - CSI SAFE
-- JavaScript
 - React
 - Bootstrap
 - Figma
