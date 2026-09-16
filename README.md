@@ -2,7 +2,7 @@
 
 Earthquake Engineering student at International Institute of Earthquake Engineering and Seismology | Civil Engineering graduate from the University of Qom
 
-I’m interested in earthquake engineering, statistical modeling, data analysis, and research-oriented programming. I work with Python and MATLAB on academic, engineering, and computational projects.
+I’m interested in earthquake engineering, Seismic Hazard Analysis, statistical modeling, data analysis, and research-oriented programming. I work with Python and MATLAB on academic, engineering, and computational projects.
 
 ## About Me
 
